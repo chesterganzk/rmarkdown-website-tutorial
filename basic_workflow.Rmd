@@ -58,6 +58,14 @@ Also, now is a good time to make sure you have the the Build tab; you may need t
 
 Click `Build Website` in the Build tab (or type `rmarkdown::render_site()` in the Console) and inspect your Website! Commit and push to see it live online. 
 
+Making some changes here to see what happens when:
+
+1. *I italicize a few things*
+2. **I bold other things**
+3. I put a link [Trump wikipedia](https://en.wikipedia.org/wiki/Donald_Trump)
+4. I put a picture ![Trump picture](https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Donald_Trump_official_portrait.jpg/1280px-Donald_Trump_official_portrait.jpg)
+
+
 <br>
 
 ## Other
